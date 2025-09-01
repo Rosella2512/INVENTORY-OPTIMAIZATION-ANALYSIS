@@ -2,6 +2,9 @@
 # INVENTORY-OPTIMAIZATION-ANALYSIS
 Inventory Optimization Analysis using Power BI highlighted stock inflows, outflows, and trends across stores. The insights helped identify high-demand products, stockout risks, and guided smarter inventory decisions.
 
+<img width="576" height="325" alt="Screenshot 2025-09-01 135742" src="https://github.com/user-attachments/assets/c9f69eca-1504-4cce-be30-2567ed220618" />
+<img width="578" height="329" alt="Screenshot 2025-09-01 135812" src="https://github.com/user-attachments/assets/025936e4-4cce-4961-b191-55ebac558951" />
+
 # Inventory Optimization Analysis Report
 
 Tool Used: Microsoft Power BI
@@ -41,6 +44,4 @@ Seasonal Trends: Spikes in demand during festive/harvest periods → Plan procur
 
 The analysis enabled better visibility into stock performance, identified inefficiencies, and recommended strategies to optimize distribution. Next steps include integrating live transaction data, automating replenishment alerts, and training managers on proactive inventory practices.
 
-<img width="576" height="325" alt="Screenshot 2025-09-01 135742" src="https://github.com/user-attachments/assets/c9f69eca-1504-4cce-be30-2567ed220618" />
-<img width="578" height="329" alt="Screenshot 2025-09-01 135812" src="https://github.com/user-attachments/assets/025936e4-4cce-4961-b191-55ebac558951" />
 
