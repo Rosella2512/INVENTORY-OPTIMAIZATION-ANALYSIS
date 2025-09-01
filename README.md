@@ -26,8 +26,11 @@ The business faced challenges with inefficient inventory distribution across sto
 * Cleaning: Removed null values, standardized product names, and ensured correct date formatting
 ## Methodology
 *Imported dataset into Power BI
+
 *Cleaned data using Power Query
+
 *Created calculated columns and DAX measures (Net Stock, Stock Movement Ratio)
+
 *Built visuals: bar charts, matrices, and slicers for store-level analysis
 
 ## Key Insights & Recommendations
