@@ -4,8 +4,6 @@ Inventory Optimization Analysis using Power BI highlighted stock inflows, outflo
 
 # Inventory Optimization Analysis Report
 
-Prepared for: Tech Studio Academy
-Prepared by: CROM
 Tool Used: Microsoft Power BI
 
 * Executive Summary
