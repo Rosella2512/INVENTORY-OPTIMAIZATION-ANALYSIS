@@ -6,28 +6,28 @@ Inventory Optimization Analysis using Power BI highlighted stock inflows, outflo
 
 Tool Used: Microsoft Power BI
 
-* Executive Summary
+## Executive Summary
 
 This report presents an analysis of inventory inflows, outflows, and balances across multiple retail stores. Using Power BI, we identified high-demand products, risks of stockouts, and inefficiencies in stock distribution. The findings provide actionable recommendations to improve stock management, reduce carrying costs, and enhance profitability.
 
-* Business Understanding
+## Business Understanding
 
 The business faced challenges with inefficient inventory distribution across stores, leading to both overstocking and understocking. The goal of this analysis was to minimize stock imbalances, reduce costs, and ensure product availability in line with customer demand.
 
-* Data Understanding
+## Data Understanding
 
 * Source: Inventory Transactions Table
 
 * Key Fields: Date, Store, Product, Quantity In, Quantity Out, Unit Price
 
 * Cleaning: Removed null values, standardized product names, and ensured correct date formatting
-* Methodology
+## Methodology
 *Imported dataset into Power BI
 *Cleaned data using Power Query
 *Created calculated columns and DAX measures (Net Stock, Stock Movement Ratio)
 *Built visuals: bar charts, matrices, and slicers for store-level analysis
 
-* Key Insights & Recommendations
+## Key Insights & Recommendations
 
 Rice: Most frequently moved product with highest movement ratio → Increase supply during peak months
 
@@ -37,7 +37,7 @@ Maize: Overstocked in some stores, shortages in others → Redistribute and prom
 
 Seasonal Trends: Spikes in demand during festive/harvest periods → Plan procurement around seasonal cycles
 
-* Conclusion
+## Conclusion
 
 The analysis enabled better visibility into stock performance, identified inefficiencies, and recommended strategies to optimize distribution. Next steps include integrating live transaction data, automating replenishment alerts, and training managers on proactive inventory practices.
 
